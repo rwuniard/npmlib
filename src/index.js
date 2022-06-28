@@ -1,5 +1,6 @@
+// Version 2
 function add(a, b) {
-    return a+b;
+    return a+b+0;
 }
 
 function multiply(a, b) {
